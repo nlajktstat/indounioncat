@@ -16,7 +16,7 @@ models:
   - genre
   - xxx
  
- - author
+- author
   - name
   - category --> personal, corporate, event
   - gender
@@ -26,7 +26,7 @@ models:
   - address
   - xxx
   
- - publisher
+- publisher
   - name
   - category --> commercial, government, NGO, personal
   - address
